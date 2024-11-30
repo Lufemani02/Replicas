@@ -1,0 +1,62 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "0d862eb2-ade4-42af-b366-205ea0da945f",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1732944508310"
+        }
+      },
+      "favorite": {
+        "name": "localhost:27020"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27020/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    },
+    {
+      "id": "1fa8bc78-8e7f-4cfc-9735-2a26aca5956b",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1732944506795"
+        }
+      },
+      "favorite": {
+        "name": "localhost:27019"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27019/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    },
+    {
+      "id": "6c7c19b1-9ecc-4c8b-9434-17bacbd172b5",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1732944504564"
+        }
+      },
+      "favorite": {
+        "name": "localhost:27018"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27018/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}
